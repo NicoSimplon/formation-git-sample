@@ -6,4 +6,3 @@ ligne exemples
 3dbranch
 rebase commit 1
 rebase commit 2
--->édition du fichier depuis l'interface web de github
