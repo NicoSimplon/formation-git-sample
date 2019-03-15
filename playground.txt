@@ -1,2 +1,3 @@
 formation git
-ligne exemple
+ligne exemples
+2eme ligne d'exemple
